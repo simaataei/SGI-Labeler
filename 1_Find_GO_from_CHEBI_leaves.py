@@ -36,8 +36,20 @@ with open('Ref_files/chebi_leaf.txt') as f:
 #C2GO_anion = map_chebi2GO(leaf_anions)
 C2GO = map_chebi2GO(chebi_leaf)
 
-# delete chebis that are not in transmembrane transporter
-transporters = read_dag('GO:0022857')
+# delete GO terms that are not in transmembrane transporter DAG
+transporters = dag_to_list(read_dag('GO:0022857'),[])
+catalytic = dag_to_list(read_dag('GO:0003824'),[])
+transporters =set(transporters) - set(catalytic)
+delete_C = []
+
+for key, val in C2GO.items():
+    for G in val:
+        if G not in transporters:
+            C2GO[key].remove(G)
+            if len(C2GO[key]) == 0:
+                delete_C.append(key)
+
+[C2GO.pop(key) for key in delete_C]
 
 '''
 with open('Mid_files/dict_C2GO_cation.txt', 'w') as d:
@@ -61,7 +73,7 @@ C2GO_anion = ast.literal_eval(contents)
 
 
 # combine two maps to one C2GO
-C2GO = {**C2GO_cation, **C2GO_anion}
+#C2GO = {**C2GO_cation, **C2GO_anion}
 
 
 GO_terms = [item for sublist in list(C2GO.values()) for item in sublist]
@@ -84,7 +96,7 @@ for chebi in C2GO.keys():
     C2GO[chebi] = C2GO[chebi] + dag_list
     C2GO[chebi] = list(set(C2GO[chebi]))
 a = 1
-with open('Mid_files/dict_C2GO_from_CHEBI_with_DAG_organic.txt', 'w') as d:
+with open('Mid_files/dict_C2GO_from_CHEBI_with_DAG_all_trans.txt', 'w') as d:
     d.write(str(C2GO))
 
 '''

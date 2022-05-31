@@ -1,0 +1,42 @@
+\begin{tabular}{llrr}
+\toprule
+{} &          Substrate &  UniProt &  SwissProt \\
+\midrule
+CHEBI:24636 &             proton &   1617.0 &     1015.0 \\
+CHEBI:29103 &      potassium(1+) &   1164.0 &      500.0 \\
+CHEBI:29108 &        calcium(2+) &   1117.0 &      442.0 \\
+CHEBI:29101 &         sodium(1+) &    876.0 &      465.0 \\
+CHEBI:17996 &           chloride &    714.0 &      274.0 \\
+CHEBI:16189 &            sulfate &    147.0 &       57.0 \\
+CHEBI:29105 &           zinc(2+) &    109.0 &       84.0 \\
+CHEBI:28938 &           ammonium &     80.0 &       54.0 \\
+CHEBI:17632 &            nitrate &     37.0 &       35.0 \\
+CHEBI:29033 &           iron(2+) &     36.0 &       24.0 \\
+CHEBI:49552 &         copper(1+) &     36.0 &       23.0 \\
+CHEBI:29036 &         copper(2+) &     28.0 &       23.0 \\
+CHEBI:25155 &   manganese cation &     27.0 &       10.0 \\
+CHEBI:35780 &      phosphate ion &     23.0 &       12.0 \\
+CHEBI:63063 &     cadmium cation &     13.0 &       13.0 \\
+CHEBI:63056 &        zinc cation &     12.0 &       12.0 \\
+CHEBI:16382 &             iodide &     10.0 &        5.0 \\
+CHEBI:17051 &           fluoride &      8.0 &        4.0 \\
+CHEBI:29242 &       arsenite(1-) &      7.0 &        5.0 \\
+CHEBI:29034 &           iron(3+) &      7.0 &        7.0 \\
+CHEBI:25197 &     mercury cation &      5.0 &        5.0 \\
+CHEBI:16301 &            nitrite &      5.0 &        4.0 \\
+CHEBI:36264 &          molybdate &      3.0 &        3.0 \\
+CHEBI:25516 &      nickel cation &      3.0 &        3.0 \\
+CHEBI:46502 &          tungstate &      3.0 &        3.0 \\
+CHEBI:39127 &   magnesium cation &      3.0 &        3.0 \\
+CHEBI:35172 &    vanadium cation &      2.0 &        2.0 \\
+CHEBI:49713 &        lithium(1+) &      2.0 &        2.0 \\
+CHEBI:17359 &            sulfite &      1.0 &        1.0 \\
+CHEBI:23336 &      cobalt cation &      1.0 &        1.0 \\
+CHEBI:60253 &      silver cation &      1.0 &        1.0 \\
+CHEBI:37239 &  molybdenum cation &      0.0 &        0.0 \\
+CHEBI:35404 &       chromate(2-) &      0.0 &        0.0 \\
+CHEBI:15075 &           selenate &      0.0 &        0.0 \\
+CHEBI:49709 &           chlorate &      0.0 &        0.0 \\
+Total       &                  - &   6097.0 &     3092.0 \\
+\bottomrule
+\end{tabular}

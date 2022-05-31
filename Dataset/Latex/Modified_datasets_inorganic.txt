@@ -1,0 +1,37 @@
+\begin{tabular}{lrr}
+\toprule
+{} &  UniProt &  SwissProt \\
+\midrule
+proton                  &     1408 &      866.0 \\
+calcium(2+)             &      937 &      360.0 \\
+potassium(1+)           &      815 &      308.0 \\
+chloride                &      503 &      180.0 \\
+sodium(1+)              &      364 &      196.0 \\
+sulfate                 &      107 &       35.0 \\
+zinc(2+)                &       89 &       67.0 \\
+ammonium                &       57 &       37.0 \\
+nitrate                 &       29 &       28.0 \\
+iron(2+)                &       24 &       16.0 \\
+copper(1+)              &       17 &        7.0 \\
+copper(2+)              &        8 &        6.0 \\
+fluoride                &        8 &        4.0 \\
+arsenite(1-)            &        7 &        5.0 \\
+iron(3+)                &        7 &        7.0 \\
+cadmium cation          &        7 &        7.0 \\
+phosphate ion           &        6 &        6.0 \\
+mercury cation          &        5 &        5.0 \\
+boric acid              &        5 &        5.0 \\
+uracil                  &        3 &        3.0 \\
+tungstate               &        3 &        3.0 \\
+molybdate               &        3 &        3.0 \\
+magnesium cation        &        3 &        3.0 \\
+nickel cation           &        2 &        2.0 \\
+manganese cation        &        2 &        2.0 \\
+nitrite                 &        1 &        NaN \\
+silver cation           &        1 &        1.0 \\
+phosphonatoenolpyruvate &        1 &        1.0 \\
+silicic acid            &        1 &        1.0 \\
+tellurite               &        1 &        1.0 \\
+sulfite                 &        1 &        1.0 \\
+\bottomrule
+\end{tabular}

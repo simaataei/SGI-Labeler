@@ -1,0 +1,53 @@
+sucrose	0
+selenite(2-)	1
+copper(1+)	2
+nitrite	3
+hydrogencarbonate	4
+calcium(2+)	5
+chloride	6
+iron(2+)	7
+lithium(1+)	8
+cadmium cation	9
+arsenite(1-)	10
+iron(3+)	11
+ammonium	12
+manganese cation	13
+taurine zwitterion	14
+nitrate	15
+glycine zwitterion	16
+potassium(1+)	17
+phosphate ion	18
+vanadium cation	19
+iodide	20
+dopaminium(1+)	21
+sulfite	22
+tungstate	23
+silicic acid	24
+serotonin(1+)	25
+copper(2+)	26
+L-ascorbate	27
+cobalt cation	28
+silver cation	29
+nickel cation	30
+mercury cation	31
+trioxidosulfanidosulfate(1-)	32
+magnesium cation	33
+aldehydo-D-xylose	34
+gamma-aminobutyric acid zwitterion	35
+sulfate	36
+fluoride	37
+boric acid	38
+citrate(3-)	39
+2-dehydro-3-deoxy-D-gluconate	40
+acetate	41
+proton	42
+phosphonatoenolpyruvate	43
+uracil	44
+sodium(1+)	45
+choline	46
+creatine zwitterion	47
+zinc(2+)	48
+succinate(2-)	49
+tellurite	50
+molybdate	51
+folate(2-)	52

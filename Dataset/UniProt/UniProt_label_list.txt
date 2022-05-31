@@ -1,0 +1,24 @@
+CHEBI:61082,lipid-linked peptidoglycan,0
+CHEBI:17632,nitrate,1
+CHEBI:29105,zinc(2+),2
+CHEBI:30616,ATP(4-),3
+CHEBI:57986,riboflavin(1-),4
+CHEBI:16189,sulfate,5
+CHEBI:58070,dehydroascorbide(1-),6
+CHEBI:17996,chloride,7
+CHEBI:35491,L-cystine zwitterion,8
+CHEBI:3098,bile acid,9
+CHEBI:57427,L-leucine zwitterion,10
+CHEBI:24636,proton,11
+CHEBI:29101,sodium(1+),12
+CHEBI:58048,L-asparagine zwitterion,13
+CHEBI:30823,oleate,14
+CHEBI:36080,protein,15
+CHEBI:15377,water,16
+CHEBI:29108,calcium(2+),17
+CHEBI:49552,copper(1+),18
+CHEBI:29033,iron(2+),19
+CHEBI:29103,potassium(1+),20
+CHEBI:28938,ammonium,21
+CHEBI:50211,retinol,22
+CHEBI:24337,glutathione derivative,23

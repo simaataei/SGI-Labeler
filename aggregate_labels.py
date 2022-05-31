@@ -41,6 +41,8 @@ def remove_ident(Dataset, acc2GO):
     [acc2GO.pop(key) for key in remove_acc]
     return acc2GO
 
+
+
 #C2GO = delete_parent_chebis(Constants.latex_organic, Constants.dict_C2GO_organic_with_parent)
 #with open(Constants.dict_C2GO_organic_final, 'w') as f:
 #    f.write(str(C2GO))

@@ -1,0 +1,124 @@
+\begin{tabular}{lrr}
+\toprule
+{} &  UniProt &  SwissProt \\
+\midrule
+proton                                   &    571.0 &      451.0 \\
+calcium(2+)                              &    209.0 &      153.0 \\
+potassium(1+)                            &    193.0 &      146.0 \\
+chloride                                 &    128.0 &       74.0 \\
+sodium(1+)                               &     96.0 &       80.0 \\
+zinc(2+)                                 &     51.0 &       47.0 \\
+sulfate                                  &     39.0 &       20.0 \\
+ammonium                                 &     28.0 &       23.0 \\
+riboflavin(1-)                           &     23.0 &       22.0 \\
+protein                                  &     18.0 &       19.0 \\
+nitrate                                  &     17.0 &       17.0 \\
+iron(2+)                                 &     16.0 &       13.0 \\
+lipid-linked peptidoglycan               &     10.0 &       10.0 \\
+water                                    &     10.0 &        9.0 \\
+copper(1+)                               &      9.0 &        6.0 \\
+retinol                                  &      8.0 &        4.0 \\
+cobalamin                                &      8.0 &        8.0 \\
+UDP-D-glucose(2-)                        &      7.0 &        6.0 \\
+S-adenosyl-L-methionine zwitterion       &      7.0 &        3.0 \\
+copper(2+)                               &      7.0 &        5.0 \\
+L-cystine zwitterion                     &      7.0 &        8.0 \\
+glutathione derivative                   &      7.0 &        5.0 \\
+biotinate                                &      6.0 &        6.0 \\
+UDP-N-acetyl-alpha-D-glucosamine(2-)     &      6.0 &        6.0 \\
+phosphate ion                            &      5.0 &        5.0 \\
+arsenite(1-)                             &      5.0 &        4.0 \\
+maltose                                  &      5.0 &        6.0 \\
+N-ribosylnicotinamide                    &      5.0 &        5.0 \\
+fluoride                                 &      5.0 &        3.0 \\
+iron(3+)                                 &      5.0 &        5.0 \\
+D-methionine zwitterion                  &      4.0 &        4.0 \\
+3'-phosphonato-5'-adenylyl sulfate(4-)   &      4.0 &        4.0 \\
+boric acid                               &      4.0 &        4.0 \\
+dehydroascorbide(1-)                     &      4.0 &        4.0 \\
+L-arabinose                              &      4.0 &        4.0 \\
+flavin adenine dinucleotide              &      4.0 &        3.0 \\
+phosphoglycerate                         &      4.0 &        3.0 \\
+pyrimidine nucleotide                    &      4.0 &        2.0 \\
+heme                                     &      4.0 &        3.0 \\
+mercury cation                           &      4.0 &        4.0 \\
+glycerol 1-phosphodiester(1-)            &      4.0 &        4.0 \\
+long-chain fatty acid                    &      4.0 &        3.0 \\
+L-leucine zwitterion                     &      4.0 &        4.0 \\
+molybdate                                &      3.0 &        3.0 \\
+teichoic acid                            &      3.0 &        2.0 \\
+L-ascorbate                              &      3.0 &        1.0 \\
+urate salt                               &      3.0 &        1.0 \\
+GDP-fucose                               &      3.0 &        3.0 \\
+L-proline zwitterion                     &      3.0 &        4.0 \\
+spermidine(3+)                           &      3.0 &        3.0 \\
+glutathionate(1-)                        &      3.0 &        3.0 \\
+xanthine                                 &      3.0 &        3.0 \\
+arsenate ion                             &      3.0 &        3.0 \\
+bacteriocin                              &      3.0 &        1.0 \\
+NAD                                      &      3.0 &        3.0 \\
+oligopeptide                             &      3.0 &        3.0 \\
+enterobactin(1-)                         &      3.0 &        3.0 \\
+N-(4-aminobenzoyl)-L-glutamate           &      3.0 &        1.0 \\
+thiamine(1+) diphosphate(3-)             &      3.0 &        3.0 \\
+cytidine                                 &      3.0 &        3.0 \\
+oleate                                   &      3.0 &        2.0 \\
+adenosine 5'-monophosphate(2-)           &      3.0 &        2.0 \\
+tungstate                                &      3.0 &        3.0 \\
+urea                                     &      2.0 &        2.0 \\
+L-serine zwitterion                      &      2.0 &        1.0 \\
+1,4-butanediammonium                     &      2.0 &        3.0 \\
+cadmium cation                           &      2.0 &        2.0 \\
+L-methionine zwitterion                  &      2.0 &        2.0 \\
+uracil                                   &      2.0 &        2.0 \\
+gluconate                                &      2.0 &        2.0 \\
+lipopolysaccharide                       &      2.0 &        1.0 \\
+magnesium cation                         &      2.0 &        2.0 \\
+L-asparagine zwitterion                  &      2.0 &        1.0 \\
+maltodextrin                             &      2.0 &        2.0 \\
+allantoate                               &      2.0 &        2.0 \\
+L-tyrosine zwitterion                    &      2.0 &        2.0 \\
+nickel cation                            &      2.0 &        2.0 \\
+poly-beta-1,6-N-acetyl-D-glucosamine     &      1.0 &        1.0 \\
+benzoate                                 &      1.0 &        1.0 \\
+bile acid                                &      1.0 &        1.0 \\
+(+)-abscisic acid D-glucopyranosyl ester &      1.0 &        1.0 \\
+microcin                                 &      1.0 &        1.0 \\
+D-galactofuranose                        &      1.0 &        1.0 \\
+L-phenylalanine zwitterion               &      1.0 &        1.0 \\
+L-argininium(1+)                         &      1.0 &        1.0 \\
+CMP-N-acetyl-beta-neuraminate(2-)        &      1.0 &        1.0 \\
+c-GMP-AMP(2-)                            &      1.0 &        1.0 \\
+gibberellin                              &      1.0 &        1.0 \\
+nitrite                                  &      1.0 &        NaN \\
+nicotinate                               &      1.0 &        1.0 \\
+(R)-pantothenate                         &      1.0 &        1.0 \\
+phytochelatin                            &      1.0 &        1.0 \\
+spermine(4+)                             &      1.0 &        1.0 \\
+silver cation                            &      1.0 &        1.0 \\
+beta-D-glucan                            &      1.0 &        1.0 \\
+methyl beta-D-galactoside                &      1.0 &        1.0 \\
+oxalate(2-)                              &      1.0 &        1.0 \\
+sulfite                                  &      1.0 &        1.0 \\
+ferrienterobactin(3-)                    &      1.0 &        1.0 \\
+organic phosphonate                      &      1.0 &        1.0 \\
+glycerol                                 &      1.0 &        1.0 \\
+hexuronic acid                           &      1.0 &        1.0 \\
+UDP-alpha-D-xylose(2-)                   &      1.0 &        1.0 \\
+ethanolaminium(1+)                       &      1.0 &        1.0 \\
+manganese cation                         &      1.0 &        2.0 \\
+D-ribose                                 &      1.0 &        1.0 \\
+prostaglandin                            &      1.0 &        1.0 \\
+threonine                                &      1.0 &        1.0 \\
+GDP-mannose                              &      1.0 &        1.0 \\
+iron(III) hydroxamate                    &      1.0 &        1.0 \\
+2-oxoglutarate(2-)                       &      1.0 &        1.0 \\
+2-cis-abscisate                          &      1.0 &        1.0 \\
+fatty acyl-CoA                           &      1.0 &        2.0 \\
+pyruvate                                 &      1.0 &        1.0 \\
+iron-sulfur cluster                      &      NaN &        1.0 \\
+adenine                                  &      NaN &        1.0 \\
+mevalonate                               &      NaN &        1.0 \\
+sterol                                   &      NaN &        1.0 \\
+\bottomrule
+\end{tabular}

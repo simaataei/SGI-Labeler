@@ -1,0 +1,84 @@
+sucrose	0
+glycine betaine	1
+selenite(2-)	2
+copper(1+)	3
+nitrite	4
+hydrogencarbonate	5
+fluconazole	6
+calcium(2+)	7
+chloride	8
+cycloheximide	9
+iron(2+)	10
+raffinose	11
+lithium(1+)	12
+cadmium cation	13
+arsenite(1-)	14
+3-hydroxyphenyl propanoate	15
+urea	16
+iron(3+)	17
+ammonium	18
+xanthosine	19
+manganese cation	20
+benomyl	21
+taurine zwitterion	22
+zinc cation	23
+antimonous acid	24
+nitrate	25
+tetracycline zwitterion	26
+selenate	27
+glycine zwitterion	28
+amiloride	29
+ferrienterobactin(3-)	30
+potassium(1+)	31
+phosphate ion	32
+L-alanine zwitterion	33
+vanadium cation	34
+iodide	35
+dopaminium(1+)	36
+sulfite	37
+glycerone phosphate(2-)	38
+2-oxoglutarate(2-)	39
+tungstate	40
+silicic acid	41
+serotonin(1+)	42
+copper(2+)	43
+L-ascorbate	44
+cobalt cation	45
+shikimate	46
+malonate(2-)	47
+acetylcholine	48
+silver cation	49
+nickel cation	50
+acridine	51
+mercury cation	52
+inorganic cation	53
+trioxidosulfanidosulfate(1-)	54
+magnesium cation	55
+aldehydo-D-xylose	56
+gamma-aminobutyric acid zwitterion	57
+sulfate	58
+fluoride	59
+chromate(2-)	60
+boric acid	61
+nucleotide-sulfate	62
+citrate(3-)	63
+chlorate	64
+2-dehydro-3-deoxy-D-gluconate	65
+acetate	66
+proton	67
+phosphonatoenolpyruvate	68
+uracil	69
+sodium(1+)	70
+molybdenum cation	71
+choline	72
+glyceraldehyde 3-phosphate(2-)	73
+creatine zwitterion	74
+uridine	75
+zinc(2+)	76
+N-acetylneuraminate	77
+cytosine	78
+amitrole	79
+succinate(2-)	80
+tellurite	81
+molybdate	82
+folate(2-)	83

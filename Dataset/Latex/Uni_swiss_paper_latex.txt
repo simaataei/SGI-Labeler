@@ -1,0 +1,29 @@
+\begin{tabular}{lllrr}
+\toprule
+{} &        CHEBI &                   Substrate &  SwissProt &  UniProt \\
+\midrule
+0     &  CHEBI:24636 &                      proton &      830.0 &   1329.0 \\
+1     &  CHEBI:29108 &                 calcium(2+) &      349.0 &    916.0 \\
+2     &  CHEBI:29103 &               potassium(1+) &      299.0 &    797.0 \\
+3     &  CHEBI:17996 &                    chloride &      176.0 &    490.0 \\
+4     &  CHEBI:29101 &                  sodium(1+) &      174.0 &    330.0 \\
+5     &  CHEBI:29105 &                    zinc(2+) &       67.0 &     88.0 \\
+6     &  CHEBI:15377 &                       water &       45.0 &     54.0 \\
+7     &  CHEBI:28938 &                    ammonium &       35.0 &     55.0 \\
+8     &  CHEBI:57986 &              riboflavin(1-) &       29.0 &     40.0 \\
+9     &  CHEBI:36080 &                     protein &       28.0 &     28.0 \\
+10    &  CHEBI:17632 &                     nitrate &       25.0 &     26.0 \\
+11    &  CHEBI:16189 &                     sulfate &       24.0 &     86.0 \\
+12    &  CHEBI:50211 &                     retinol &       16.0 &     30.0 \\
+13    &  CHEBI:29033 &                    iron(2+) &       16.0 &     24.0 \\
+14    &  CHEBI:24337 &      glutathione derivative &       16.0 &     33.0 \\
+15    &  CHEBI:57427 &        L-leucine zwitterion &       13.0 &     17.0 \\
+16    &  CHEBI:58070 &        dehydroascorbide(1-) &       13.0 &     15.0 \\
+17    &  CHEBI:35491 &        L-cystine zwitterion &       11.0 &     11.0 \\
+18    &  CHEBI:61082 &  lipid-linked peptidoglycan &       11.0 &     11.0 \\
+19    &  CHEBI:49552 &                  copper(1+) &        7.0 &     17.0 \\
+20    &   CHEBI:3098 &                   bile acid &        4.0 &     11.0 \\
+21    &  CHEBI:58048 &     L-asparagine zwitterion &        2.0 &     11.0 \\
+Total &          NaN &                         NaN &     2190.0 &   4419.0 \\
+\bottomrule
+\end{tabular}

@@ -1,0 +1,283 @@
+\begin{tabular}{llrr}
+\toprule
+{} &                                                                           Substrate &  UniProt &  SwissProt \\
+\midrule
+CHEBI:24636  &                                                                              proton &     1617 &       1015 \\
+CHEBI:29103  &                                                                       potassium(1+) &     1164 &        500 \\
+CHEBI:29108  &                                                                         calcium(2+) &     1117 &        442 \\
+CHEBI:29101  &                                                                          sodium(1+) &      876 &        465 \\
+CHEBI:17996  &                                                                            chloride &      714 &        274 \\
+CHEBI:16189  &                                                                             sulfate &      147 &         57 \\
+CHEBI:29105  &                                                                            zinc(2+) &      109 &         84 \\
+CHEBI:15377  &                                                                               water &       87 &         64 \\
+CHEBI:28938  &                                                                            ammonium &       80 &         54 \\
+CHEBI:36915  &                                                                    inorganic cation &       79 &         60 \\
+CHEBI:456216 &                                                                             ADP(3-) &       58 &         30 \\
+CHEBI:30616  &                                                                             ATP(4-) &       58 &         30 \\
+CHEBI:24337  &                                                              glutathione derivative &       48 &         29 \\
+CHEBI:57986  &                                                                      riboflavin(1-) &       46 &         35 \\
+CHEBI:59888  &                                                  gamma-aminobutyric acid zwitterion &       45 &         16 \\
+CHEBI:17544  &                                                                   hydrogencarbonate &       45 &         16 \\
+CHEBI:17632  &                                                                             nitrate &       37 &         35 \\
+CHEBI:49552  &                                                                          copper(1+) &       36 &         23 \\
+CHEBI:29033  &                                                                            iron(2+) &       36 &         24 \\
+CHEBI:30623  &                                                                         oxalate(2-) &       35 &         17 \\
+CHEBI:36080  &                                                                             protein &       34 &         34 \\
+CHEBI:50211  &                                                                             retinol &       30 &         16 \\
+CHEBI:33384  &                                                                 L-serine zwitterion &       28 &         19 \\
+CHEBI:29036  &                                                                          copper(2+) &       28 &         23 \\
+CHEBI:25155  &                                                                    manganese cation &       27 &         10 \\
+CHEBI:17754  &                                                                            glycerol &       25 &         12 \\
+CHEBI:60039  &                                                                L-proline zwitterion &       24 &         19 \\
+CHEBI:46819  &                                                                          urate salt &       24 &         15 \\
+CHEBI:57427  &                                                                L-leucine zwitterion &       22 &         18 \\
+CHEBI:26977  &                                                                         thiosulfate &       21 &         11 \\
+CHEBI:58070  &                                                                dehydroascorbide(1-) &       20 &         17 \\
+CHEBI:57925  &                                                                   glutathionate(1-) &       20 &         17 \\
+CHEBI:35491  &                                                                L-cystine zwitterion &       19 &         15 \\
+CHEBI:17992  &                                                                             sucrose &       19 &         16 \\
+CHEBI:3098   &                                                                           bile acid &       18 &         11 \\
+CHEBI:57586  &                                                                           biotinate &       17 &         15 \\
+CHEBI:58048  &                                                             L-asparagine zwitterion &       16 &          7 \\
+CHEBI:30823  &                                                                              oleate &       15 &         11 \\
+CHEBI:456215 &                                                      adenosine 5'-monophosphate(2-) &       15 &         10 \\
+CHEBI:50681  &                                                                    methotrexate(2-) &       15 &          7 \\
+CHEBI:38290  &                                                                         L-ascorbate &       14 &          6 \\
+CHEBI:63063  &                                                                      cadmium cation &       13 &         13 \\
+CHEBI:30411  &                                                                           cobalamin &       13 &         12 \\
+CHEBI:24040  &                                                         flavin adenine dinucleotide &       13 &          8 \\
+CHEBI:62501  &                                                                          folate(2-) &       12 &          4 \\
+CHEBI:57705  &                                                UDP-N-acetyl-alpha-D-glucosamine(2-) &       12 &          8 \\
+CHEBI:63056  &                                                                         zinc cation &       12 &         12 \\
+CHEBI:61082  &                                                          lipid-linked peptidoglycan &       11 &         11 \\
+CHEBI:58367  &                                                                   UDP-D-glucose(2-) &       11 &         10 \\
+CHEBI:350546 &                                                                       serotonin(1+) &       11 &          8 \\
+CHEBI:64608  &                                                                          GDP-fucose &       11 &          5 \\
+CHEBI:13389  &                                                                                 NAD &       10 &          9 \\
+CHEBI:16382  &                                                                              iodide &       10 &          5 \\
+CHEBI:507393 &                                                                  taurine zwitterion &       10 &          3 \\
+CHEBI:59789  &                                                  S-adenosyl-L-methionine zwitterion &       10 &          5 \\
+CHEBI:30413  &                                                                                heme &        9 &          6 \\
+CHEBI:61304  &                                                                    phosphoglycerate &        9 &          4 \\
+CHEBI:58339  &                                              3'-phosphonato-5'-adenylyl sulfate(4-) &        9 &          6 \\
+CHEBI:17051  &                                                                            fluoride &        8 &          4 \\
+CHEBI:58315  &                                                               L-tyrosine zwitterion &        8 &          8 \\
+CHEBI:59905  &                                                                      dopaminium(1+) &        8 &          7 \\
+CHEBI:57834  &                                                                      spermidine(3+) &        8 &          8 \\
+CHEBI:16199  &                                                                                urea &        8 &          7 \\
+CHEBI:17562  &                                                                            cytidine &        8 &          7 \\
+CHEBI:17306  &                                                                             maltose &        8 &          8 \\
+CHEBI:57632  &                                                              UDP-alpha-D-xylose(2-) &        7 &          5 \\
+CHEBI:15318  &                                                                            xanthine &        7 &          7 \\
+CHEBI:29034  &                                                                            iron(3+) &        7 &          7 \\
+CHEBI:29242  &                                                                        arsenite(1-) &        7 &          5 \\
+CHEBI:24265  &                                                                           gluconate &        7 &          7 \\
+CHEBI:58045  &                                                             L-isoleucine zwitterion &        7 &          7 \\
+CHEBI:77805  &                                                                    enterobactin(1-) &        7 &          6 \\
+CHEBI:26333  &                                                                       prostaglandin &        7 &          6 \\
+CHEBI:33118  &                                                                          boric acid &        6 &          6 \\
+CHEBI:17568  &                                                                              uracil &        6 &          6 \\
+CHEBI:18212  &                                                                        selenite(2-) &        6 &          6 \\
+CHEBI:16526  &                                                                      carbon dioxide &        6 &          6 \\
+CHEBI:15927  &                                                               N-ribosylnicotinamide &        6 &          6 \\
+CHEBI:26441  &                                                               pyrimidine nucleotide &        6 &          4 \\
+CHEBI:30408  &                                                                 iron-sulfur cluster &        6 &          4 \\
+CHEBI:35780  &                                                                       phosphate ion &        6 &          6 \\
+CHEBI:57932  &                                                             D-methionine zwitterion &        6 &          6 \\
+CHEBI:35247  &                                                                 D-serine zwitterion &        6 &          5 \\
+CHEBI:77847  &                                                       glycerol 1-phosphodiester(1-) &        6 &          6 \\
+CHEBI:45725  &                                                                        spermine(4+) &        6 &          6 \\
+CHEBI:16301  &                                                                             nitrite &        5 &          4 \\
+CHEBI:16708  &                                                                             adenine &        5 &          5 \\
+CHEBI:71501  &                                                                       c-GMP-AMP(2-) &        5 &          5 \\
+CHEBI:58095  &                                                          L-phenylalanine zwitterion &        5 &          5 \\
+CHEBI:58937  &                                                        thiamine(1+) diphosphate(3-) &        5 &          4 \\
+CHEBI:57305  &                                                                  glycine zwitterion &        5 &          4 \\
+CHEBI:60249  &                                                                            lead ion &        5 &          4 \\
+CHEBI:25676  &                                                                        oligopeptide &        5 &          4 \\
+CHEBI:326268 &                                                                1,4-butanediammonium &        5 &          5 \\
+CHEBI:25197  &                                                                      mercury cation &        5 &          5 \\
+CHEBI:63137  &                                                         4-hydroxyproline zwitterion &        5 &          2 \\
+CHEBI:22629  &                                                                        arsenate ion &        5 &          5 \\
+CHEBI:16480  &                                                                        nitric oxide &        5 &          5 \\
+CHEBI:37554  &                                                                      fatty acyl-CoA &        5 &          4 \\
+CHEBI:29032  &                                                                    (R)-pantothenate &        5 &          5 \\
+CHEBI:57947  &                                                                 creatine zwitterion &        5 &          2 \\
+CHEBI:15904  &                                                               long-chain fatty acid &        4 &          3 \\
+CHEBI:26986  &                                                                           threonine &        4 &          4 \\
+CHEBI:58210  &                                                                             FMN(3-) &        4 &          3 \\
+CHEBI:65327  &                                                                            D-xylose &        4 &          4 \\
+CHEBI:30031  &                                                                       succinate(2-) &        4 &          4 \\
+CHEBI:15889  &                                                                              sterol &        4 &          4 \\
+CHEBI:16412  &                                                                  lipopolysaccharide &        4 &          2 \\
+CHEBI:57812  &                                                   CMP-N-acetyl-beta-neuraminate(2-) &        4 &          2 \\
+CHEBI:29990  &                                                                     D-aspartate(1-) &        4 &          3 \\
+CHEBI:30849  &                                                                         L-arabinose &        4 &          4 \\
+CHEBI:25140  &                                                                        maltodextrin &        4 &          4 \\
+CHEBI:15740  &                                                                             formate &        4 &          2 \\
+CHEBI:15354  &                                                                             choline &        4 &          3 \\
+CHEBI:57762  &                                                                 L-valine zwitterion &        3 &          3 \\
+CHEBI:39127  &                                                                    magnesium cation &        3 &          3 \\
+CHEBI:25516  &                                                                       nickel cation &        3 &          3 \\
+CHEBI:30049  &                                                                       teichoic acid &        3 &          2 \\
+CHEBI:17814  &                                                                             salicin &        3 &          3 \\
+CHEBI:60903  &                                                      N-(4-aminobenzoyl)-L-glutamate &        3 &          1 \\
+CHEBI:17540  &                                                           methyl beta-D-galactoside &        3 &          3 \\
+CHEBI:36264  &                                                                           molybdate &        3 &          3 \\
+CHEBI:33542  &                                                        trioxidosulfanidosulfate(1-) &        3 &          3 \\
+CHEBI:29806  &                                                                        fumarate(2-) &        3 &          3 \\
+CHEBI:15361  &                                                                            pyruvate &        3 &          3 \\
+CHEBI:48081  &                                                                         bacteriocin &        3 &          1 \\
+CHEBI:60836  &                                                                       phytochelatin &        3 &          3 \\
+CHEBI:26948  &                                                                          vitamin B1 &        3 &          3 \\
+CHEBI:46502  &                                                                           tungstate &        3 &          3 \\
+CHEBI:28793  &                                                                       beta-D-glucan &        3 &          3 \\
+CHEBI:29805  &                                                                           glycolate &        2 &          2 \\
+CHEBI:37592  &                                                                 organic phosphonate &        2 &          2 \\
+CHEBI:65340  &                                                        5-formyltetrahydrofolate(2-) &        2 &          2 \\
+CHEBI:57844  &                                                             L-methionine zwitterion &        2 &          2 \\
+CHEBI:28498  &                                                                           acadesine &        2 &          2 \\
+CHEBI:35172  &                                                                     vanadium cation &        2 &          2 \\
+CHEBI:16810  &                                                                  2-oxoglutarate(2-) &        2 &          2 \\
+CHEBI:32544  &                                                                          nicotinate &        2 &          1 \\
+CHEBI:16244  &                                                       4-(trimethylammonio)butanoate &        2 &          1 \\
+CHEBI:49713  &                                                                         lithium(1+) &        2 &          2 \\
+CHEBI:30477  &                                                                           tellurite &        2 &          2 \\
+CHEBI:16347  &                                                                       (R)-carnitine &        2 &          1 \\
+CHEBI:62436  &                                            (+)-abscisic acid D-glucopyranosyl ester &        2 &          2 \\
+CHEBI:32682  &                                                                    L-argininium(1+) &        2 &          2 \\
+CHEBI:30653  &                                                                          homoserine &        2 &          2 \\
+CHEBI:21168  &                                                                         GDP-mannose &        2 &          2 \\
+CHEBI:18305  &                                               hydroquinone O-beta-D-glucopyranoside &        2 &          2 \\
+CHEBI:57966  &                                                             beta-alanine zwitterion &        2 &          2 \\
+CHEBI:57597  &                                                         sn-glycerol 3-phosphate(2-) &        2 &          2 \\
+CHEBI:17536  &                                                                          allantoate &        2 &          2 \\
+CHEBI:16988  &                                                                            D-ribose &        1 &          1 \\
+CHEBI:16150  &                                                                            benzoate &        1 &          1 \\
+CHEBI:17359  &                                                                             sulfite &        1 &          1 \\
+CHEBI:67063  &                                                poly-beta-1,6-N-acetyl-D-glucosamine &        1 &          1 \\
+CHEBI:57761  &                                                                  pyridoxaminium(1+) &        1 &          1 \\
+CHEBI:30089  &                                                                             acetate &        1 &          1 \\
+CHEBI:33871  &                                                                           glycerate &        1 &          1 \\
+CHEBI:16235  &                                                                             guanine &        1 &          1 \\
+CHEBI:64627  &                                                                            microcin &        1 &          1 \\
+CHEBI:28199  &                                                               ferrienterobactin(3-) &        1 &          1 \\
+CHEBI:16947  &                                                                         citrate(3-) &        1 &          1 \\
+CHEBI:24250  &                                                                         gibberellin &        1 &          1 \\
+CHEBI:57746  &                                                                3',5'-cyclic GMP(1-) &        1 &          1 \\
+CHEBI:57603  &                                                                  ethanolaminium(1+) &        1 &          1 \\
+CHEBI:60253  &                                                                       silver cation &        1 &          1 \\
+CHEBI:15936  &                                                                   aldehydo-D-xylose &        1 &          1 \\
+CHEBI:24592  &                                                                      hexuronic acid &        1 &          1 \\
+CHEBI:62071  &                                                                     2-cis-abscisate &        1 &          1 \\
+CHEBI:58145  &                                                                      agmatinium(2+) &        1 &          1 \\
+CHEBI:26675  &                                                                        silicic acid &        1 &          1 \\
+CHEBI:27306  &                                                                          vitamin B6 &        1 &          1 \\
+CHEBI:17796  &                                                                           L-idonate &        1 &          1 \\
+CHEBI:46911  &                                                                   L-ornithinium(1+) &        1 &          1 \\
+CHEBI:28757  &                                                                            fructose &        1 &          1 \\
+CHEBI:17750  &                                                                     glycine betaine &        1 &          1 \\
+CHEBI:16709  &                                                                          pyridoxine &        1 &          1 \\
+CHEBI:17310  &                                                                           pyridoxal &        1 &          1 \\
+CHEBI:58252  &                                                    S-methyl-L-methionine zwitterion &        1 &          1 \\
+CHEBI:57416  &                                                                D-alanine zwitterion &        1 &          1 \\
+CHEBI:58243  &                                                             5'-adenylyl sulfate(2-) &        1 &          1 \\
+CHEBI:23336  &                                                                       cobalt cation &        1 &          1 \\
+CHEBI:58702  &                                                             phosphonatoenolpyruvate &        1 &          1 \\
+CHEBI:57990  &                                                       2-dehydro-3-deoxy-D-gluconate &        1 &          1 \\
+CHEBI:12931  &                                                                       D-galactonate &        1 &          1 \\
+CHEBI:25350  &                                                                          mevalonate &        1 &          1 \\
+CHEBI:28163  &                                                               iron(III) hydroxamate &        1 &          1 \\
+CHEBI:143624 &                                                                   D-galactofuranose &        1 &          1 \\
+CHEBI:62070  &                                                                nalidixic acid anion &        0 &          0 \\
+CHEBI:27641  &                                                                       cycloheximide &        0 &          0 \\
+CHEBI:60940  &                                                          D-mannosyl-D-glyceric acid &        0 &          0 \\
+CHEBI:36420  &                                                                            acridine &        0 &          0 \\
+CHEBI:25706  &                                                              organomercury compound &        0 &          0 \\
+CHEBI:35418  &                                                                 N-acetylneuraminate &        0 &          0 \\
+CHEBI:131429 &                                                                           carcinine &        0 &          0 \\
+CHEBI:17393  &                                                                            D-allose &        0 &          0 \\
+CHEBI:60272  &                                                                       aluminium ion &        0 &          0 \\
+CHEBI:60584  &                                                                         bicozamycin &        0 &          0 \\
+CHEBI:35404  &                                                                        chromate(2-) &        0 &          0 \\
+CHEBI:17698  &                                                                     chloramphenicol &        0 &          0 \\
+CHEBI:15710  &                                                                    betaine aldehyde &        0 &          0 \\
+CHEBI:29195  &                                                                             cyanate &        0 &          0 \\
+CHEBI:443725 &                                                                        fosmidomycin &        0 &          0 \\
+CHEBI:18310  &                                                                              alkane &        0 &          0 \\
+CHEBI:65228  &                                                          3-hydroxyphenyl propanoate &        0 &          0 \\
+CHEBI:5019   &                                                                         ferrichrome &        0 &          0 \\
+CHEBI:30584  &                                                                         silicon(4+) &        0 &          0 \\
+CHEBI:58027  &                                                      glyceraldehyde 3-phosphate(2-) &        0 &          0 \\
+CHEBI:32551  &                                                                      L-lysinium(1+) &        0 &          0 \\
+CHEBI:62533  &                                                                  oligogalacturonide &        0 &          0 \\
+CHEBI:15792  &                                                                        malonate(2-) &        0 &          0 \\
+CHEBI:61310  &                                                                        chromium ion &        0 &          0 \\
+CHEBI:22605  &                                                                          arabinitol &        0 &          0 \\
+CHEBI:597326 &                                                          pyridoxal 5'-phosphate(2-) &        0 &          0 \\
+CHEBI:18107  &                                                                          xanthosine &        0 &          0 \\
+CHEBI:28675  &                                                                             dextrin &        0 &          0 \\
+CHEBI:16452  &                                                                    oxaloacetate(2-) &        0 &          0 \\
+CHEBI:59062  &                                                                           polymyxin &        0 &          0 \\
+CHEBI:37565  &                                                                             GTP(4-) &        0 &          0 \\
+CHEBI:61496  &  alpha-D-FucNAc4-(1->4)-beta-D-ManNAcA-(1->4)-D-GlcNAc-undecaprenyl diphosphate(3-) &        0 &          0 \\
+CHEBI:26288  &                                                                         propanediol &        0 &          0 \\
+CHEBI:10983  &                                                               (R)-3-hydroxybutyrate &        0 &          0 \\
+CHEBI:57418  &                                            (2-aminoethyl)phosphonic acid zwitterion &        0 &          0 \\
+CHEBI:77932  &                                                             tetracycline zwitterion &        0 &          0 \\
+CHEBI:48030  &                                                                        tetrapeptide &        0 &          0 \\
+CHEBI:29991  &                                                                     L-aspartate(1-) &        0 &          0 \\
+CHEBI:16040  &                                                                            cytosine &        0 &          0 \\
+CHEBI:37239  &                                                                   molybdenum cation &        0 &          0 \\
+CHEBI:15748  &                                                                       D-glucuronate &        0 &          0 \\
+CHEBI:59338  &                                                                      methylammonium &        0 &          0 \\
+CHEBI:57288  &                                                                      acetyl-CoA(4-) &        0 &          0 \\
+CHEBI:22590  &                                                                            arabinan &        0 &          0 \\
+CHEBI:61375  &                                                                 ferric-vibriobactin &        0 &          0 \\
+CHEBI:32395  &                                                                        arachidonate &        0 &          0 \\
+CHEBI:51057  &                                                                  3-phenylpropionate &        0 &          0 \\
+CHEBI:57861  &                                                                    dethiobiotin(1-) &        0 &          0 \\
+CHEBI:383703 &                                            3,6-diamino-10-methylacridinium chloride &        0 &          0 \\
+CHEBI:16991  &                                                               deoxyribonucleic acid &        0 &          0 \\
+CHEBI:9337   &                                                                       sulfathiazole &        0 &          0 \\
+CHEBI:17843  &                                                                        transfer RNA &        0 &          0 \\
+CHEBI:48871  &                                                               galactaric acid anion &        0 &          0 \\
+CHEBI:35237  &                                                                 cysteine zwitterion &        0 &          0 \\
+CHEBI:64702  &                                                                  nucleotide-sulfate &        0 &          0 \\
+CHEBI:50383  &                                                         nicotinamide mononucleotide &        0 &          0 \\
+CHEBI:58189  &                                                                             GDP(3-) &        0 &          0 \\
+CHEBI:15075  &                                                                            selenate &        0 &          0 \\
+CHEBI:57277  &                                                       3-(3-hydroxyphenyl)propanoate &        0 &          0 \\
+CHEBI:61345  &                                                                        chrysobactin &        0 &          0 \\
+CHEBI:24175  &                                                                       galacturonate &        0 &          0 \\
+CHEBI:18123  &                                                                  N-methylnicotinate &        0 &          0 \\
+CHEBI:16704  &                                                                             uridine &        0 &          0 \\
+CHEBI:49709  &                                                                            chlorate &        0 &          0 \\
+CHEBI:356416 &                                                                 5-ammoniolevulinate &        0 &          0 \\
+CHEBI:327995 &                                                                          tyraminium &        0 &          0 \\
+CHEBI:15355  &                                                                       acetylcholine &        0 &          0 \\
+CHEBI:57287  &                                                                      coenzyme A(4-) &        0 &          0 \\
+CHEBI:64816  &                                                                     doxorubicin(1+) &        0 &          0 \\
+CHEBI:58515  &                                                                  ectoine zwitterion &        0 &          0 \\
+CHEBI:57642  &                                                             glycerone phosphate(2-) &        0 &          0 \\
+CHEBI:16634  &                                                                           raffinose &        0 &          0 \\
+CHEBI:30612  &                                                                     D-glucarate(2-) &        0 &          0 \\
+CHEBI:58432  &                                                                         histaminium &        0 &          0 \\
+CHEBI:15373  &                                                                           biopterin &        0 &          0 \\
+CHEBI:57972  &                                                                L-alanine zwitterion &        0 &          0 \\
+CHEBI:85413  &                                                         5-hydroxyectoine zwitterion &        0 &          0 \\
+CHEBI:49870  &                                                                     antimonous acid &        0 &          0 \\
+CHEBI:57977  &                                                                       bilirubin(2-) &        0 &          0 \\
+CHEBI:61346  &                                                                       achromobactin &        0 &          0 \\
+CHEBI:24287  &                                                                    glucosylglycerol &        0 &          0 \\
+CHEBI:48999  &                                                              4-hydroxyphenylacetate &        0 &          0 \\
+CHEBI:3015   &                                                                             benomyl &        0 &          0 \\
+CHEBI:40036  &                                                                            amitrole &        0 &          0 \\
+CHEBI:3259   &                                                                                CCCP &        0 &          0 \\
+CHEBI:17234  &                                                                             glucose &        0 &          0 \\
+CHEBI:2639   &                                                                           amiloride &        0 &          0 \\
+CHEBI:67062  &                                                         lipo-chitin oligosaccharide &        0 &          0 \\
+CHEBI:46081  &                                                                         fluconazole &        0 &          0 \\
+CHEBI:36208  &                                                                           shikimate &        0 &          0 \\
+\bottomrule
+\end{tabular}

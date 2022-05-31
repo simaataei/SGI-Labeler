@@ -1,0 +1,33 @@
+\begin{tabular}{lllrrrr}
+\toprule
+{} &        CHEBI &         Substrate &  SwissProt-60 &  UniProt-60 &  SwissProt-100 &  UniProt-100 \\
+\midrule
+0  &  CHEBI:24636 &            proton &         484.0 &       600.0 &          883.0 &       1307.0 \\
+1  &  CHEBI:29108 &       calcium(2+) &         154.0 &       210.0 &          350.0 &        868.0 \\
+2  &  CHEBI:29103 &     potassium(1+) &         146.0 &       193.0 &          299.0 &        726.0 \\
+3  &  CHEBI:17996 &          chloride &          75.0 &       129.0 &          177.0 &        458.0 \\
+4  &  CHEBI:29101 &        sodium(1+) &          99.0 &       123.0 &          235.0 &        429.0 \\
+5  &  CHEBI:16189 &           sulfate &          27.0 &        49.0 &           38.0 &         98.0 \\
+6  &  CHEBI:29105 &          zinc(2+) &          47.0 &        51.0 &           67.0 &         80.0 \\
+7  &  CHEBI:28938 &          ammonium &          23.0 &        28.0 &           36.0 &         55.0 \\
+8  &  CHEBI:17632 &           nitrate &          18.0 &        18.0 &           27.0 &         28.0 \\
+9  &  CHEBI:29033 &          iron(2+) &          13.0 &        16.0 &           16.0 &         24.0 \\
+10 &  CHEBI:35780 &     phosphate ion &          12.0 &        12.0 &           12.0 &         22.0 \\
+11 &  CHEBI:49552 &        copper(1+) &           6.0 &         9.0 &            7.0 &         17.0 \\
+12 &  CHEBI:29036 &        copper(2+) &           5.0 &         7.0 &            6.0 &          8.0 \\
+13 &  CHEBI:29242 &      arsenite(1-) &           5.0 &         7.0 &            5.0 &          7.0 \\
+14 &  CHEBI:29034 &          iron(3+) &           5.0 &         5.0 &            7.0 &          7.0 \\
+15 &  CHEBI:63063 &    cadmium cation &           4.0 &         4.0 &            7.0 &          7.0 \\
+16 &  CHEBI:17051 &          fluoride &           3.0 &         5.0 &            4.0 &          6.0 \\
+17 &  CHEBI:25197 &    mercury cation &           4.0 &         4.0 &            5.0 &          5.0 \\
+18 &  CHEBI:36264 &         molybdate &           3.0 &         3.0 &            3.0 &          3.0 \\
+19 &  CHEBI:46502 &         tungstate &           3.0 &         3.0 &            3.0 &          3.0 \\
+20 &  CHEBI:39127 &  magnesium cation &           2.0 &         2.0 &            3.0 &          3.0 \\
+21 &  CHEBI:25516 &     nickel cation &           2.0 &         2.0 &            2.0 &          2.0 \\
+22 &  CHEBI:25155 &  manganese cation &           2.0 &         1.0 &            2.0 &          2.0 \\
+23 &  CHEBI:17359 &           sulfite &           1.0 &         1.0 &            1.0 &          1.0 \\
+24 &  CHEBI:60253 &     silver cation &           1.0 &         1.0 &            1.0 &          1.0 \\
+25 &  CHEBI:16301 &           nitrite &           NaN &         1.0 &            NaN &          1.0 \\
+26 &        Total &               NaN &        1144.0 &      1484.0 &         2196.0 &       4168.0 \\
+\bottomrule
+\end{tabular}

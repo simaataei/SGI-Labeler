@@ -1,0 +1,29 @@
+\begin{tabular}{lllrrrr}
+\toprule
+{} &        CHEBI &                   Substrate &  UniProt-ICAT &  SwissProti-ICAT &  UniProt-ICAT-60 &  SwissProt-ICAT-60 \\
+\midrule
+0     &  CHEBI:24636 &                      proton &        1329.0 &            830.0 &            571.0 &              451.0 \\
+1     &  CHEBI:29108 &                 calcium(2+) &         916.0 &            349.0 &            209.0 &              153.0 \\
+2     &  CHEBI:29103 &               potassium(1+) &         797.0 &            299.0 &            193.0 &              146.0 \\
+3     &  CHEBI:17996 &                    chloride &         490.0 &            176.0 &            128.0 &               74.0 \\
+4     &  CHEBI:29101 &                  sodium(1+) &         330.0 &            174.0 &             96.0 &               80.0 \\
+5     &  CHEBI:29105 &                    zinc(2+) &          88.0 &             67.0 &             51.0 &               47.0 \\
+6     &  CHEBI:15377 &                       water &          54.0 &             45.0 &             10.0 &                9.0 \\
+7     &  CHEBI:28938 &                    ammonium &          55.0 &             35.0 &             28.0 &               23.0 \\
+8     &  CHEBI:57986 &              riboflavin(1-) &          40.0 &             29.0 &             23.0 &               22.0 \\
+9     &  CHEBI:36080 &                     protein &          28.0 &             28.0 &             18.0 &               19.0 \\
+10    &  CHEBI:17632 &                     nitrate &          26.0 &             25.0 &             17.0 &               17.0 \\
+11    &  CHEBI:16189 &                     sulfate &          86.0 &             24.0 &             39.0 &               20.0 \\
+12    &  CHEBI:50211 &                     retinol &          30.0 &             16.0 &              8.0 &                4.0 \\
+13    &  CHEBI:29033 &                    iron(2+) &          24.0 &             16.0 &             16.0 &               13.0 \\
+14    &  CHEBI:24337 &      glutathione derivative &          33.0 &             16.0 &              7.0 &                5.0 \\
+15    &  CHEBI:57427 &        L-leucine zwitterion &          17.0 &             13.0 &              4.0 &                4.0 \\
+16    &  CHEBI:58070 &        dehydroascorbide(1-) &          15.0 &             13.0 &              4.0 &                4.0 \\
+17    &  CHEBI:35491 &        L-cystine zwitterion &          11.0 &             11.0 &              7.0 &                8.0 \\
+18    &  CHEBI:61082 &  lipid-linked peptidoglycan &          11.0 &             11.0 &             10.0 &               10.0 \\
+19    &  CHEBI:49552 &                  copper(1+) &          17.0 &              7.0 &              9.0 &                6.0 \\
+20    &   CHEBI:3098 &                   bile acid &          11.0 &              4.0 &              1.0 &                1.0 \\
+21    &  CHEBI:58048 &     L-asparagine zwitterion &          11.0 &              2.0 &              2.0 &                1.0 \\
+Total &          NaN &                         NaN &        4419.0 &           2190.0 &           1451.0 &             1117.0 \\
+\bottomrule
+\end{tabular}

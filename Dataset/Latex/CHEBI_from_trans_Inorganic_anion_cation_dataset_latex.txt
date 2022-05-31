@@ -1,0 +1,29 @@
+\begin{tabular}{llrr}
+\toprule
+{} &      Substrate &  UniProt &  SwissProt \\
+\midrule
+CHEBI:29108 &    calcium(2+) &      629 &        153 \\
+CHEBI:29103 &  potassium(1+) &      505 &        176 \\
+CHEBI:24636 &         proton &      350 &        186 \\
+CHEBI:17996 &       chloride &      294 &         82 \\
+CHEBI:29101 &     sodium(1+) &      232 &         69 \\
+CHEBI:29105 &       zinc(2+) &       71 &         50 \\
+CHEBI:16189 &        sulfate &       22 &          1 \\
+CHEBI:29034 &       iron(3+) &        1 &          1 \\
+CHEBI:28938 &       ammonium &        1 &          1 \\
+CHEBI:49713 &    lithium(1+) &        0 &          0 \\
+CHEBI:29242 &   arsenite(1-) &        0 &          0 \\
+CHEBI:17051 &       fluoride &        0 &          0 \\
+CHEBI:17359 &        sulfite &        0 &          0 \\
+CHEBI:16382 &         iodide &        0 &          0 \\
+CHEBI:49709 &       chlorate &        0 &          0 \\
+CHEBI:17632 &        nitrate &        0 &          0 \\
+CHEBI:46502 &      tungstate &        0 &          0 \\
+CHEBI:15075 &       selenate &        0 &          0 \\
+CHEBI:16301 &        nitrite &        0 &          0 \\
+CHEBI:29036 &     copper(2+) &        0 &          0 \\
+CHEBI:29033 &       iron(2+) &        0 &          0 \\
+CHEBI:49552 &     copper(1+) &        0 &          0 \\
+CHEBI:35404 &   chromate(2-) &        0 &          0 \\
+\bottomrule
+\end{tabular}

@@ -1,0 +1,35 @@
+chlorate	0
+nickel cation	1
+potassium(1+)	2
+copper(2+)	3
+zinc(2+)	4
+arsenite(1-)	5
+mercury cation	6
+ammonium	7
+magnesium cation	8
+tungstate	9
+silver cation	10
+iron(3+)	11
+molybdate	12
+cobalt cation	13
+calcium(2+)	14
+chromate(2-)	15
+manganese cation	16
+phosphate ion	17
+iodide	18
+zinc cation	19
+vanadium cation	20
+proton	21
+copper(1+)	22
+sulfate	23
+molybdenum cation	24
+iron(2+)	25
+nitrite	26
+sodium(1+)	27
+cadmium cation	28
+lithium(1+)	29
+chloride	30
+selenate	31
+fluoride	32
+nitrate	33
+sulfite	34

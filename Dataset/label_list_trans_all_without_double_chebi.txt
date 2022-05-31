@@ -1,0 +1,277 @@
+(R)-carnitine	0
+N-methylnicotinate	1
+acridine	2
+organomercury compound	3
+bicozamycin	4
+S-methyl-L-methionine zwitterion	5
+fosmidomycin	6
+4-hydroxyproline zwitterion	7
+hydroquinone O-beta-D-glucopyranoside	8
+vitamin B1	9
+5'-adenylyl sulfate(2-)	10
+D-galactonate	11
+3-hydroxyphenyl propanoate	12
+thiosulfate	13
+cadmium cation	14
+tetrapeptide	15
+homoserine	16
+iron(3+)	17
+polymyxin	18
+xanthosine	19
+fluoride	20
+heme	21
+inorganic cation	22
+phytochelatin	23
+iron(III) hydroxamate	24
+glycine betaine	25
+L-tyrosine zwitterion	26
+lipid-linked peptidoglycan	27
+zinc cation	28
+salicin	29
+UDP-alpha-D-xylose(2-)	30
+trioxidosulfanidosulfate(1-)	31
+glyceraldehyde 3-phosphate(2-)	32
+GDP-fucose	33
+fumarate(2-)	34
+L-lysinium(1+)	35
+ferrichrome	36
+lead ion	37
+folate(2-)	38
+acetate	39
+uracil	40
+UDP-D-glucose(2-)	41
+manganese cation	42
+selenite(2-)	43
+bacteriocin	44
+D-ribose	45
+GTP(4-)	46
+prostaglandin	47
+nitrate	48
+iodide	49
+ADP(3-)	50
+(2-aminoethyl)phosphonic acid zwitterion	51
+choline	52
+tetracycline zwitterion	53
+3',5'-cyclic GMP(1-)	54
+betaine aldehyde	55
+glutathionate(1-)	56
+cytosine	57
+pyridoxal	58
+L-ornithinium(1+)	59
+molybdenum cation	60
+coenzyme A(4-)	61
+threonine	62
+doxorubicin(1+)	63
+vitamin B6	64
+zinc(2+)	65
+FMN(3-)	66
+c-GMP-AMP(2-)	67
+GDP-mannose	68
+adenosine 5'-monophosphate(2-)	69
+L-serine zwitterion	70
+silicic acid	71
+ATP(4-)	72
+beta-alanine zwitterion	73
+riboflavin(1-)	74
+agmatinium(2+)	75
+copper(2+)	76
+sulfate	77
+ectoine zwitterion	78
+N-ribosylnicotinamide	79
+D-aspartate(1-)	80
+2-cis-abscisate	81
+dehydroascorbide(1-)	82
+fatty acyl-CoA	83
+sn-glycerol 3-phosphate(2-)	84
+hexuronic acid	85
+D-glucarate(2-)	86
+boric acid	87
+gibberellin	88
+histaminium	89
+L-alanine zwitterion	90
+spermidine(3+)	91
+formate	92
+1,4-butanediammonium	93
+maltose	94
+5-hydroxyectoine zwitterion	95
+urea	96
+taurine zwitterion	97
+acetylcholine	98
+antimonous acid	99
+benzoate	100
+benomyl	101
+L-arabinose	102
+(+)-abscisic acid D-glucopyranosyl ester	103
+CCCP	104
+carbon dioxide	105
+glycerate	106
+lipo-chitin oligosaccharide	107
+microcin	108
+tyraminium	109
+aldehydo-D-xylose	110
+D-galactofuranose	111
+flavin adenine dinucleotide	112
+tungstate	113
+acetyl-CoA(4-)	114
+D-serine zwitterion	115
+arabinan	116
+CMP-N-acetyl-beta-neuraminate(2-)	117
+phosphoglycerate	118
+ferric-vibriobactin	119
+magnesium cation	120
+oligopeptide	121
+3-phenylpropionate	122
+L-phenylalanine zwitterion	123
+cobalt cation	124
+chloride	125
+sulfathiazole	126
+L-cystine zwitterion	127
+galactaric acid anion	128
+nitric oxide	129
+L-argininium(1+)	130
+GDP(3-)	131
+selenate	132
+allantoate	133
+3-(3-hydroxyphenyl)propanoate	134
+phosphonatoenolpyruvate	135
+bile acid	136
+mevalonate	137
+arsenite(1-)	138
+glycerone phosphate(2-)	139
+L-leucine zwitterion	140
+long-chain fatty acid	141
+L-aspartate(1-)	142
+L-ascorbate	143
+uridine	144
+glycerol 1-phosphodiester(1-)	145
+sterol	146
+galacturonate	147
+chrysobactin	148
+2-dehydro-3-deoxy-D-gluconate	149
+cobalamin	150
+pyrimidine nucleotide	151
+cytidine	152
+thiamine(1+) diphosphate(3-)	153
+proton	154
+nicotinamide mononucleotide	155
+nucleotide-sulfate	156
+nickel cation	157
+cysteine zwitterion	158
+sodium(1+)	159
+transfer RNA	160
+2-oxoglutarate(2-)	161
+deoxyribonucleic acid	162
+D-alanine zwitterion	163
+3,6-diamino-10-methylacridinium chloride	164
+L-valine zwitterion	165
+dethiobiotin(1-)	166
+teichoic acid	167
+arachidonate	168
+succinate(2-)	169
+methotrexate(2-)	170
+5-formyltetrahydrofolate(2-)	171
+methylammonium	172
+dopaminium(1+)	173
+D-glucuronate	174
+chlorate	175
+phosphate ion	176
+5-ammoniolevulinate	177
+iron-sulfur cluster	178
+bilirubin(2-)	179
+fluconazole	180
+UDP-N-acetyl-alpha-D-glucosamine(2-)	181
+molybdate	182
+pyridoxine	183
+amiloride	184
+glucose	185
+guanine	186
+lithium(1+)	187
+4-(trimethylammonio)butanoate	188
+amitrole	189
+L-asparagine zwitterion	190
+sucrose	191
+sulfite	192
+4-hydroxyphenylacetate	193
+glucosylglycerol	194
+serotonin(1+)	195
+achromobactin	196
+oleate	197
+protein	198
+citrate(3-)	199
+nicotinate	200
+maltodextrin	201
+biopterin	202
+ethanolaminium(1+)	203
+pyruvate	204
+urate salt	205
+vanadium cation	206
+N-(4-aminobenzoyl)-L-glutamate	207
+raffinose	208
+poly-beta-1,6-N-acetyl-D-glucosamine	209
+L-proline zwitterion	210
+water	211
+spermine(4+)	212
+D-methionine zwitterion	213
+gamma-aminobutyric acid zwitterion	214
+NAD	215
+calcium(2+)	216
+enterobactin(1-)	217
+copper(1+)	218
+(R)-pantothenate	219
+iron(2+)	220
+L-isoleucine zwitterion	221
+fructose	222
+gluconate	223
+biotinate	224
+oligogalacturonide	225
+L-idonate	226
+cyanate	227
+nalidixic acid anion	228
+chloramphenicol	229
+aluminium ion	230
+cycloheximide	231
+N-acetylneuraminate	232
+silver cation	233
+tellurite	234
+beta-D-glucan	235
+pyridoxaminium(1+)	236
+L-methionine zwitterion	237
+methyl beta-D-galactoside	238
+(R)-3-hydroxybutyrate	239
+alpha-D-FucNAc4-(1->4)-beta-D-ManNAcA-(1->4)-D-GlcNAc-undecaprenyl diphosphate(3-)	240
+oxalate(2-)	241
+potassium(1+)	242
+glycine zwitterion	243
+ammonium	244
+chromium ion	245
+malonate(2-)	246
+glycolate	247
+ferrienterobactin(3-)	248
+3'-phosphonato-5'-adenylyl sulfate(4-)	249
+silicon(4+)	250
+organic phosphonate	251
+alkane	252
+dextrin	253
+nitrite	254
+arabinitol	255
+pyridoxal 5'-phosphate(2-)	256
+arsenate ion	257
+oxaloacetate(2-)	258
+glycerol	259
+D-xylose	260
+propanediol	261
+retinol	262
+lipopolysaccharide	263
+xanthine	264
+D-mannosyl-D-glyceric acid	265
+creatine zwitterion	266
+carcinine	267
+glutathione derivative	268
+D-allose	269
+chromate(2-)	270
+adenine	271
+mercury cation	272
+hydrogencarbonate	273
+acadesine	274
+S-adenosyl-L-methionine zwitterion	275
+shikimate	276

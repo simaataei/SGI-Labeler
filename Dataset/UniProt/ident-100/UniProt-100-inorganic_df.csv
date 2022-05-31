@@ -1,0 +1,28 @@
+label,Substrate,UniProt
+CHEBI:24636,proton,1307.0
+CHEBI:29108,calcium(2+),868.0
+CHEBI:29103,potassium(1+),726.0
+CHEBI:17996,chloride,458.0
+CHEBI:29101,sodium(1+),429.0
+CHEBI:16189,sulfate,98.0
+CHEBI:29105,zinc(2+),80.0
+CHEBI:28938,ammonium,55.0
+CHEBI:17632,nitrate,28.0
+CHEBI:29033,iron(2+),24.0
+CHEBI:35780,phosphate ion,22.0
+CHEBI:49552,copper(1+),17.0
+CHEBI:29036,copper(2+),8.0
+CHEBI:29034,iron(3+),7.0
+CHEBI:29242,arsenite(1-),7.0
+CHEBI:63063,cadmium cation,7.0
+CHEBI:17051,fluoride,6.0
+CHEBI:25197,mercury cation,5.0
+CHEBI:36264,molybdate,3.0
+CHEBI:39127,magnesium cation,3.0
+CHEBI:46502,tungstate,3.0
+CHEBI:25516,nickel cation,2.0
+CHEBI:25155,manganese cation,2.0
+CHEBI:16301,nitrite,1.0
+CHEBI:17359,sulfite,1.0
+CHEBI:60253,silver cation,1.0
+Total,,4168.0

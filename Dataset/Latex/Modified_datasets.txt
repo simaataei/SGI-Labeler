@@ -1,0 +1,130 @@
+\begin{tabular}{lrr}
+\toprule
+{} &  UniProt &  SwissProt \\
+\midrule
+proton                                   &     1380 &      841.0 \\
+calcium(2+)                              &      934 &      357.0 \\
+potassium(1+)                            &      815 &      308.0 \\
+chloride                                 &      498 &      178.0 \\
+sodium(1+)                               &      336 &      175.0 \\
+zinc(2+)                                 &       89 &       67.0 \\
+sulfate                                  &       86 &       24.0 \\
+ammonium                                 &       56 &       36.0 \\
+water                                    &       55 &       45.0 \\
+riboflavin(1-)                           &       41 &       30.0 \\
+glutathione derivative                   &       33 &       16.0 \\
+protein                                  &       30 &       30.0 \\
+retinol                                  &       30 &       16.0 \\
+nitrate                                  &       27 &       26.0 \\
+iron(2+)                                 &       24 &       16.0 \\
+copper(1+)                               &       17 &        7.0 \\
+L-leucine zwitterion                     &       17 &       13.0 \\
+dehydroascorbide(1-)                     &       15 &       13.0 \\
+L-cystine zwitterion                     &       12 &       11.0 \\
+L-asparagine zwitterion                  &       11 &        2.0 \\
+lipid-linked peptidoglycan               &       11 &       11.0 \\
+bile acid                                &       11 &        4.0 \\
+oleate                                   &       10 &        7.0 \\
+L-proline zwitterion                     &        9 &        7.0 \\
+S-adenosyl-L-methionine zwitterion       &        9 &        4.0 \\
+GDP-fucose                               &        9 &        3.0 \\
+UDP-D-glucose(2-)                        &        9 &        8.0 \\
+cobalamin                                &        9 &        9.0 \\
+urate salt                               &        9 &        4.0 \\
+adenosine 5'-monophosphate(2-)           &        9 &        5.0 \\
+heme                                     &        9 &        6.0 \\
+flavin adenine dinucleotide              &        9 &        5.0 \\
+glutathionate(1-)                        &        8 &        8.0 \\
+L-serine zwitterion                      &        8 &        3.0 \\
+copper(2+)                               &        8 &        6.0 \\
+UDP-N-acetyl-alpha-D-glucosamine(2-)     &        8 &        6.0 \\
+maltose                                  &        8 &        8.0 \\
+phosphoglycerate                         &        8 &        3.0 \\
+3'-phosphonato-5'-adenylyl sulfate(4-)   &        8 &        5.0 \\
+fluoride                                 &        8 &        4.0 \\
+biotinate                                &        8 &        6.0 \\
+iron(3+)                                 &        7 &        7.0 \\
+iron-sulfur cluster                      &        6 &        4.0 \\
+D-methionine zwitterion                  &        6 &        6.0 \\
+NAD                                      &        6 &        6.0 \\
+fatty acyl-CoA                           &        5 &        4.0 \\
+boric acid                               &        5 &        5.0 \\
+cadmium cation                           &        5 &        5.0 \\
+N-ribosylnicotinamide                    &        5 &        5.0 \\
+pyrimidine nucleotide                    &        5 &        3.0 \\
+mercury cation                           &        5 &        5.0 \\
+thiamine(1+) diphosphate(3-)             &        5 &        4.0 \\
+phosphate ion                            &        5 &        5.0 \\
+oligopeptide                             &        5 &        4.0 \\
+arsenite(1-)                             &        5 &        4.0 \\
+glycerol 1-phosphodiester(1-)            &        5 &        5.0 \\
+maltodextrin                             &        4 &        4.0 \\
+enterobactin(1-)                         &        4 &        3.0 \\
+lipopolysaccharide                       &        4 &        2.0 \\
+prostaglandin                            &        4 &        3.0 \\
+long-chain fatty acid                    &        4 &        3.0 \\
+L-ascorbate                              &        4 &        1.0 \\
+1,4-butanediammonium                     &        4 &        4.0 \\
+L-arabinose                              &        4 &        4.0 \\
+sterol                                   &        4 &        4.0 \\
+urea                                     &        4 &        4.0 \\
+CMP-N-acetyl-beta-neuraminate(2-)        &        4 &        2.0 \\
+magnesium cation                         &        3 &        3.0 \\
+tungstate                                &        3 &        3.0 \\
+teichoic acid                            &        3 &        2.0 \\
+spermidine(3+)                           &        3 &        3.0 \\
+molybdate                                &        3 &        3.0 \\
+c-GMP-AMP(2-)                            &        3 &        3.0 \\
+beta-D-glucan                            &        3 &        3.0 \\
+bacteriocin                              &        3 &        1.0 \\
+UDP-alpha-D-xylose(2-)                   &        3 &        3.0 \\
+cytidine                                 &        3 &        3.0 \\
+arsenate ion                             &        3 &        3.0 \\
+xanthine                                 &        3 &        3.0 \\
+gluconate                                &        3 &        3.0 \\
+N-(4-aminobenzoyl)-L-glutamate           &        3 &        1.0 \\
+manganese cation                         &        2 &        2.0 \\
+L-argininium(1+)                         &        2 &        2.0 \\
+nicotinate                               &        2 &        1.0 \\
+L-methionine zwitterion                  &        2 &        2.0 \\
+nickel cation                            &        2 &        2.0 \\
+spermine(4+)                             &        2 &        2.0 \\
+allantoate                               &        2 &        2.0 \\
+pyruvate                                 &        2 &        2.0 \\
+adenine                                  &        2 &        2.0 \\
+L-tyrosine zwitterion                    &        2 &        2.0 \\
+methyl beta-D-galactoside                &        2 &        2.0 \\
+uracil                                   &        2 &        2.0 \\
+L-phenylalanine zwitterion               &        1 &        1.0 \\
+microcin                                 &        1 &        1.0 \\
+mevalonate                               &        1 &        1.0 \\
+D-galactofuranose                        &        1 &        1.0 \\
+2-oxoglutarate(2-)                       &        1 &        1.0 \\
+(+)-abscisic acid D-glucopyranosyl ester &        1 &        1.0 \\
+agmatinium(2+)                           &        1 &        1.0 \\
+benzoate                                 &        1 &        1.0 \\
+gibberellin                              &        1 &        1.0 \\
+oxalate(2-)                              &        1 &        1.0 \\
+silver cation                            &        1 &        1.0 \\
+ferrienterobactin(3-)                    &        1 &        1.0 \\
+glycine betaine                          &        1 &        1.0 \\
+organic phosphonate                      &        1 &        1.0 \\
+nitrite                                  &        1 &        NaN \\
+(R)-pantothenate                         &        1 &        1.0 \\
+glycerol                                 &        1 &        1.0 \\
+S-methyl-L-methionine zwitterion         &        1 &        1.0 \\
+iron(III) hydroxamate                    &        1 &        1.0 \\
+D-ribose                                 &        1 &        1.0 \\
+poly-beta-1,6-N-acetyl-D-glucosamine     &        1 &        1.0 \\
+threonine                                &        1 &        1.0 \\
+GDP-mannose                              &        1 &        1.0 \\
+ethanolaminium(1+)                       &        1 &        1.0 \\
+silicic acid                             &        1 &        1.0 \\
+phytochelatin                            &        1 &        1.0 \\
+sulfite                                  &        1 &        1.0 \\
+2-cis-abscisate                          &        1 &        1.0 \\
+sn-glycerol 3-phosphate(2-)              &        1 &        1.0 \\
+hexuronic acid                           &        1 &        1.0 \\
+acadesine                                &        1 &        1.0 \\
+\bottomrule
+\end{tabular}

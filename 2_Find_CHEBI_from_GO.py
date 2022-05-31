@@ -75,14 +75,14 @@ for l in list(set(c_leafs)):
 
 # Exclude catalytic from the transporter leafs
 modified_leaf = [value for value in t_leaf_list if value not in c_leaf_list]
-with open("Ref_files/GO_leaf_trans.txt", "w") as f:
-    for item in modified_leaf:
-        f.write(item + "\n")
+#with open("Ref_files/GO_leaf_trans.txt", "w") as f:
+   # for item in modified_leaf:
+    #    f.write(item + "\n")
 GO2C = map_GO2chebi(modified_leaf)
 
 
 
-with open('Mid_files/dict_GO2C_organic.txt', 'w') as d:
+with open('Mid_files/dict_GO2C_transporter.txt', 'w') as d:
     d.write(str(GO2C))
 C2GO ={}
 
@@ -93,7 +93,7 @@ for GO in GO2C.keys():
     for item in GO2C[GO]:
         C2GO[item].append(GO)
 
-
+'''
 # Exclude chebis that are not inorganic(organic) from the map
 organic_cation = ['CHEBI:25697']
 organic_anion = ['CHEBI:25696']
@@ -108,7 +108,7 @@ for C in C2GO.keys():
 
 [C2GO.pop(key) for key in remove_chebi]
 
-
-with open('Mid_files/dict_C2GO_from_GO_organic_leaf_CHEBI_filtered.txt', 'w') as d:
+'''
+with open('Mid_files/dict_C2GO_from_GO_transporter_leaf_CHEBI_filtered.txt', 'w') as d:
     d.write(str(C2GO))
 diffrence_list = [value for value in t_leaf_list if value in c_leaf_list]

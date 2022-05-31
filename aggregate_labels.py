@@ -45,23 +45,23 @@ def remove_ident(Dataset, acc2GO):
 
 
 
-#C2GO = delete_parent_chebis(Constants.latex_organic, Constants.dict_C2GO_organic_with_parent)
+C2GO = delete_parent_chebis(Constants.latex_transporter, Constants.dict_C2GO_transporter_with_parent)
 #with open(Constants.dict_C2GO_organic_final, 'w') as f:
 #    f.write(str(C2GO))
 #file = open(Constants.dict_C2GO_organic_final, "r")
 #contents = file.read()
 #C2GO = ast.literal_eval(contents)
 
-file = open(Constants.dict_C2GO_inorganic_final, "r")
-contents = file.read()
-C2GO = ast.literal_eval(contents)
+#file = open(Constants.dict_C2GO_transporter_final, "r")
+#contents = file.read()
+#C2GO = ast.literal_eval(contents)
 
 #C2GO = {**C2GO_inorganic, **C2GO_organic}
 
-#acc2GO_swiss = read_acc_GO_term(Constants.path_acc2go_trans_swissprot)
+acc2GO_swiss = read_acc_GO_term(Constants.path_acc2go_trans_swissprot)
 acc2GO_uni = read_acc_GO_term(Constants.path_acc2go_trans_uniprot)
-acc2GO = remove_ident(Constants.UniProt_60, acc2GO_uni)
-records = list(SeqIO.parse(Constants.UniProt_60, "fasta"))
+acc2GO = remove_ident(Constants.SwissProt_100, acc2GO_swiss)
+records = list(SeqIO.parse(Constants.SwissProt_100, "fasta"))
 
 labeled = label_data(C2GO, acc2GO)
 one_label = delete_multilabel_data(labeled)
@@ -79,7 +79,7 @@ sum = df_data.sum(numeric_only=True)
 sum.name = 'Total'
 df_data = df_data.append(sum, ignore_index=False)
 
-df_data.to_csv('Dataset/UniProt/ident-60/UniProt-60-inorganic_df.csv')
+df_data.to_csv('Dataset/SwissProt/ident-100/SwissProt-100-transporter_df.csv')
 
 
 chebis = list(cut.index)
@@ -87,7 +87,7 @@ label_names = list(cut.Substrate)
 label_dict = {}
 i = 0
 
-with open('Dataset/UniProt/ident-60/Label_name_list_inorganic_uni_ident60_t10','w') as f:
+with open('Dataset/UniProt/ident-60/Label_name_list_transporter_uni_ident60_t10','w') as f:
     for c in chebis:
         label_dict[c] = i
         f.write(c + ',' + label_names[i] + ',' + str(i) + '\n')

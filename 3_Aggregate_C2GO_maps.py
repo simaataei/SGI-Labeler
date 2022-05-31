@@ -4,11 +4,11 @@ import pandas as pd
 def intersect(a, b):
     sb = set(b)
     return [x for x in a if x in sb]
-file = open("Mid_files/dict_C2GO_from_CHEBI_with_DAG_organic.txt", "r")
+file = open("Mid_files/dict_C2GO_from_CHEBI_with_DAG_transporter.txt", "r")
 contents = file.read()
 C2GO_from_CHEBI = ast.literal_eval(contents)
 
-file = open("Mid_files/dict_C2GO_from_GO_organic_leaf_CHEBI_filtered.txt", "r")
+file = open("Mid_files/dict_C2GO_from_GO_transporter_leaf_CHEBI_filtered.txt", "r")
 contents = file.read()
 C2GO_from_GO = ast.literal_eval(contents)
 keys = list(set(list(C2GO_from_CHEBI.keys())+ list(C2GO_from_GO.keys())))
@@ -23,7 +23,7 @@ for k in keys:
         for item in C2GO_from_GO[k]:
             C2GO[k].append(item)
     C2GO[k] = list(set(C2GO[k]))
-with open('Mid_files/dict_C2GO_overall_CHEBI_filtered_organic.txt', 'w') as d:
+with open('Mid_files/dict_C2GO_overall_CHEBI_filtered_transporter.txt', 'w') as d:
     d.write(str(C2GO))
 
 '''

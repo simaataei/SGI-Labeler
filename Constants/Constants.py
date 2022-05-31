@@ -40,11 +40,16 @@ SwissProt_one_label_seqs_ident_60_fasta = 'Dataset/SwissProt/ident-60/SwissProt_
 
 latex_organic ='Dataset/Latex/CHEBI_from_trans_all_CHEBI_filtered_without_double_chebi_organic_dataset_latex.txt'
 latex_inorganic ='Dataset/Latex/CHEBI_from_trans_all_CHEBI_filtered_without_double_chebi_inorganic_dataset_latex.txt'
+latex_transporter = 'Dataset/Latex/CHEBI_from_trans_all_CHEBI_filtered_without_double_chebi_transporter_dataset_latex.txt'
 
 dict_C2GO_organic_with_parent = "Mid_files/dict_C2GO_overall_CHEBI_filtered_without_double_chebi_organic.txt"
 dict_C2GO_inorganic_with_parent = "Mid_files/dict_C2GO_overall_CHEBI_filtered_without_double_chebi_inorganic.txt"
 dict_C2GO_organic_final = 'Mid_files/dict_C2GO_overall_CHEBI_filtered_without_double_and_parent_chebi_organic.txt'
 dict_C2GO_inorganic_final = 'Mid_files/dict_C2GO_overall_CHEBI_filtered_without_double_and_parent_chebi_inorganic.txt'
+dict_C2GO_transporter_with_parent ='Mid_files/dict_C2GO_overall_CHEBI_filtered_without_double_chebi_transporter.txt'
+dict_C2GO_transporter_final ='Mid_files/dict_C2GO_overall_CHEBI_filtered_without_double_and_parent_chebi_transporter.txt'
+
+
 data_label_uni_100_organic = './Dataset/UniProt/ident-100/data_label_organic_uniprot_ident100.txt'
 data_label_uni_60_organic = './Dataset/UniProt/ident-60/data_label_organic_uniprot_ident60.txt'
 data_label_swiss_100_organic = './Dataset/SwissProt/ident-100/data_label_organic_swissprot_ident100.txt'

@@ -96,7 +96,7 @@ for chebi in C2GO.keys():
     C2GO[chebi] = C2GO[chebi] + dag_list
     C2GO[chebi] = list(set(C2GO[chebi]))
 a = 1
-with open('Mid_files/dict_C2GO_from_CHEBI_with_DAG_all_trans.txt', 'w') as d:
+with open('Mid_files/dict_C2GO_from_CHEBI_with_DAG_transporter.txt', 'w') as d:
     d.write(str(C2GO))
 
 '''
